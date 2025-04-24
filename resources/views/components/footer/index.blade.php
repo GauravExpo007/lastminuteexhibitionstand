@@ -52,7 +52,7 @@
             <h2 class="uppercase font-bold text-2xl sm:text-3xl">Services</h2>
             <ul class="flex flex-col gap-4 text-slate-200">
                 <li><a href="#" class="hover:text-[#0F90A3]">Consultation</a></li>
-                <li><a href="#" class="hover:text-[#0F90A3]">Custom Exhibition Stand</a></li>
+                <li><a href="{{ route('custom-stand') }}" class="hover:text-[#0F90A3]">Custom Exhibition Stand</a></li>
                 <li><a href="#" class="hover:text-[#0F90A3]">Modular Exhibition Stand</a></li>
                 <li><a href="#" class="hover:text-[#0F90A3]">3D Booth Design</a></li>
                 <li><a href="#" class="hover:text-[#0F90A3]">Country Pavillion</a></li>
@@ -63,7 +63,7 @@
         <section class="flex flex-col gap-6 text-center sm:text-left">
             <h2 class="uppercase font-bold text-2xl sm:text-3xl">Disclaimer</h2>
             <p class="text-slate-200 text-sm leading-relaxed">
-                Last Minute Expo Stand Service is a major exhibition stand builder in UAE, providing high-quality and
+                Last Minute Expo Stand Service is a major exhibition stand builder in Poland, providing high-quality and
                 diverse exhibition
                 stands, as well as comprehensive showcasing services. We handle everything from concept to construction,
                 logistics, and dismantling.

@@ -28,7 +28,7 @@
 
                     <!-- Custom Exhibition Stands-->
                     <li class="relative group">
-                        <a href="#"
+                        <a href="{{ route('custom-stand') }}"
                             class="flex justify-between items-center px-4 py-2 text-sm md:text-base hover:bg-[#81C5CF]">
                             Custom Exhibition Stands
                         </a>
@@ -85,7 +85,7 @@
 
                     <!--  Custom Exhibition Stands -->
                     <li>
-                        <a href="#"
+                        <a href="{{ route('custom-stand') }}"
                             class="w-full flex justify-between items-center px-4 py-2 hover:bg-gray-700 submenu-toggle">
                             Custom Exhibition Stands
                         </a>

@@ -21,3 +21,9 @@ Route::get('/portfolio', function () {
 Route::get('/contact', function () {
     return view('components.contact-us.index');
 })->name('contact');
+
+
+// service-routes
+Route::get('/service/custom-stand', function () {
+    return view('components.services.custom-stand.index');
+})->name('custom-stand');

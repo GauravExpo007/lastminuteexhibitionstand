@@ -1,7 +1,7 @@
 <section class="flex flex-col md:flex-row justify-center items-center bg-[#E7E4E4] md:p-5 lg:p-10">
 
     {{-- Address-Section --}}
-    <div class="flex flex-col w-full p-5 gap-5 md:w-1/2">
+    <div class="flex flex-col w-full p-5 gap-5 md:w-1/2 animate-slide-in-left">
         <div class="w-full p-5 md:p-10 lg:p-14 flex flex-col gap-5 font-lato">
             <h3
                 class="bg-gradient-to-r from-[#0F90A3] to-[#442C5E] bg-clip-text text-transparent text-xl md:text-2xl lg:text-3xl xl:text-4xl font-semibold">
@@ -55,7 +55,7 @@
     </div>
 
     <!-- Form Section -->
-    <div class="bg-[#F9F9F9] p-5 rounded-lg shadow-lg w-full md:w-2/3 m-5">
+    <div class="bg-[#F9F9F9] p-5 rounded-lg shadow-lg w-full md:w-2/3 m-5 animate-slide-in-right">
         <h2 class="font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mb-5 text-center">Contact Us
         </h2>
 

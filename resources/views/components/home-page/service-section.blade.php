@@ -1,9 +1,9 @@
-<section id="vanta-bg" class="py-16 bg-black/80 text-white font-sans">
+<section id="vanta-bg" class="py-16 bg-black/80 text-white font-sans overflow-x-hidden">
     <div class=" container mx-auto px-6 flex flex-col lg:flex-row items-start gap-10">
         <!-- Left: Text & Tabs -->
         <div class="lg:w-1/2 flex flex-col justify-center items-start gap-5">
             <h3
-                class="bg-gradient-to-r from-[#0F90A3] to-white bg-clip-text text-transparent text-base md:text-lg uppercase text-center md:text-start tracking-wider font-semibold">
+                class="bg-gradient-to-r from-[#0F90A3] to-white bg-clip-text text-transparent text-base md:text-lg uppercase mx-auto md:mx-0 tracking-wider font-semibold">
                 Our Services
             </h3>
             <h2 class="font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-5xl mt-5 text-center md:text-left">
@@ -41,7 +41,7 @@
         <div class="w-full lg:w-1/2 flex justify-center">
             <div class="relative w-full max-w-lg">
                 <img id="serviceImage" src="{{ asset('assets/service-section/custom.webp') }}" alt="Service"
-                    class="rounded-xl shadow-lg w-full h-52 sm:h-80 md:h-96 object-cover border-2 border-slate-300">
+                    class="rounded-xl shadow-lg w-full h-52 md:h-96 object-cover border-2 border-slate-300">
 
                 <div id="serviceDescription"
                     class="absolute bottom-0 left-0 right-0  md:w-[80%] bg-black/70 p-4 md:p-6 border border-[#0F90A3] rounded-bl-xl text-left">
