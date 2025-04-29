@@ -5,7 +5,8 @@
     <section
         class="max-w-7xl px-4 sm:px-6 lg:px-8 flex flex-col gap-5 w-full py-10 md:py-20 lg:w-3/5 animate-slide-in-left">
 
-        <h2 class="font-semibold text-3xl md:text-4xl lg:text-5xl xl:text-6xl mt-[5%] text-center md:text-left">
+        <h2
+            class="font-serif font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-5xl mt-[5%] text-center md:text-left">
             Check Recent Achievements
         </h2>
 

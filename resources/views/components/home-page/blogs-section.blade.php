@@ -2,7 +2,7 @@
     style="background-image: url('/assets/bg/home-bg.webp')">
     <div class="mb-12">
         <h2
-            class="font-semibold text-3xl md:text-4xl lg:text-5xl xl:text-6xl mt-[5%] text-center md:text-left animate-slide-in-left">
+            class="font-serif font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-5xl mt-[5%] text-center md:text-left animate-slide-in-left">
             The Blog — Ideas, Insights & Inspiration
         </h2>
     </div>

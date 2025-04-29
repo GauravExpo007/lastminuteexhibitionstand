@@ -6,7 +6,7 @@
 
         <!-- Contact Section -->
         <section class="flex flex-col gap-6 text-center md:text-left">
-            <h2 class="uppercase font-bold text-2xl sm:text-3xl">Contact</h2>
+            <h2 class="font-serif uppercase font-bold text-2xl sm:text-3xl">Contact</h2>
             <ul class="flex flex-col gap-4 text-slate-200 mx-auto md:mx-0">
                 <li class="flex items-start sm:items-center gap-3">
                     <i class="fa fa-map-marker text-[#0F90A3]"></i>
@@ -37,7 +37,7 @@
 
         <!-- Company Section -->
         <section class="flex flex-col gap-6 text-center sm:text-left">
-            <h2 class="uppercase font-bold text-2xl sm:text-3xl">Company</h2>
+            <h2 class="font-serif uppercase font-bold text-2xl sm:text-3xl">Company</h2>
             <ul class="flex flex-col gap-4 text-slate-200">
                 <li><a href="/" class="hover:text-[#0F90A3]">Home</a></li>
                 <li><a href="{{ route('about') }}" class="hover:text-[#0F90A3]">About Us</a></li>
@@ -49,7 +49,7 @@
 
         <!-- Services Section -->
         <section class="flex flex-col gap-6 text-center sm:text-left">
-            <h2 class="uppercase font-bold text-2xl sm:text-3xl">Services</h2>
+            <h2 class="font-serif uppercase font-bold text-2xl sm:text-3xl">Services</h2>
             <ul class="flex flex-col gap-4 text-slate-200">
                 <li><a href="#" class="hover:text-[#0F90A3]">Consultation</a></li>
                 <li><a href="{{ route('custom-stand') }}" class="hover:text-[#0F90A3]">Custom Exhibition Stand</a></li>
@@ -61,7 +61,7 @@
 
         <!-- Disclaimer Section -->
         <section class="flex flex-col gap-6 text-center sm:text-left">
-            <h2 class="uppercase font-bold text-2xl sm:text-3xl">Disclaimer</h2>
+            <h2 class="font-serif uppercase font-bold text-2xl sm:text-3xl">Disclaimer</h2>
             <p class="text-slate-200 text-sm leading-relaxed">
                 Last Minute Expo Stand Service is a major exhibition stand builder in Poland, providing high-quality and
                 diverse exhibition

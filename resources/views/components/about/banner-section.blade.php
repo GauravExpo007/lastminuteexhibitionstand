@@ -8,8 +8,8 @@
                      href="{{ route('about') }}" class="text-[#71e1f0] animate-pulse animate-left">About
                      Us</a>
              </span>
-             <h1 class="text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold">
-                 Welcome to Last Minute Exhibition Stand
+             <h1 class="font-serif text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold">
+                 Welcome to Last Minute Exhibition Stand Ltd
              </h1>
              <h2 class="font-semibold text-base md:text-lg lg:text-xl w-full md:w-[60%]">Your Reliable Choice for Booth
                  Fabrication Services in UAE, USA, ASIA & EUROPE.</h2>

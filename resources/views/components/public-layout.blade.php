@@ -9,6 +9,9 @@
     <title>Document</title>
     {{-- <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700&display=swap" rel="stylesheet"> --}}
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="preload" href="/fonts/larken-serif/LarkenSerif-Regular.woff2" as="font" type="font/woff2"
+        crossorigin="anonymous">
+
 
     @vite('resources/css/app.css')
     {{-- <link href="{{ asset('assets/css/header.css') }}" rel="stylesheet"> --}}
@@ -81,7 +84,6 @@
     <footer>
         <x-footer.index />
     </footer>
-
 
     <script>
         function handleScrollAnimation() {

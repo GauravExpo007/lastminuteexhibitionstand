@@ -10,14 +10,14 @@
         <!-- Accordion Section -->
         <div class="flex-1">
             <h2
-                class="pb-5 md:pb-10 font-semibold text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center md:text-left animate-slide-in-left">
+                class="font-serif pb-5 md:pb-10 font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-center md:text-left animate-slide-in-left">
                 The Way We Work</h2>
 
             <div id="accordion" class="space-y-2">
                 <!-- Accordion Item 1 (Open by default) -->
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">01.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">01.
                         Ideation</button>
                     <div class="accordion-body px-4 pb-4">
                         We execute unique and creative concepts that match an uncommon thought through the exhibition
@@ -27,7 +27,7 @@
 
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">02.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">02.
                         Designers</button>
                     <div class="accordion-body px-4 pb-4 hidden">
                         Our team of designers will take your idea from concept to living, breathing designs that are
@@ -37,7 +37,7 @@
 
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">03.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">03.
                         Validation</button>
                     <div class="accordion-body px-4 pb-4 hidden">
                         We validate your designs technically and conceptually before moving forward.
@@ -46,7 +46,7 @@
 
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">04.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">04.
                         Building</button>
                     <div class="accordion-body px-4 pb-4 hidden">
                         We execute and develop your finished design concepts using only the highest level of skill &
@@ -56,7 +56,7 @@
 
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">05.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">05.
                         Deployment</button>
                     <div class="accordion-body px-4 pb-4 hidden">
                         Your design is carefully delivered, installed, and prepared for showtime.
@@ -65,7 +65,7 @@
 
                 <div class="border border-gray-700 rounded-xl overflow-hidden bg-white">
                     <button
-                        class="w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">06.
+                        class="font-serif w-full text-left text-lg md:text-xl p-4 font-semibold accordion-header bg-gradient-to-r from-[#0E91A3] to-[#213607] bg-clip-text text-transparent">06.
                         Handover</button>
                     <div class="accordion-body px-4 pb-4 hidden">
                         Once everything is good to go, we finalize and hand over the completed stand to you.

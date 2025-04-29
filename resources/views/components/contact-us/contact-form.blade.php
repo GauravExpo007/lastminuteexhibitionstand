@@ -4,7 +4,7 @@
     <div class="flex flex-col w-full p-5 gap-5 md:w-1/2 animate-slide-in-left">
         <div class="w-full p-5 md:p-10 lg:p-14 flex flex-col gap-5 font-lato">
             <h3
-                class="bg-gradient-to-r from-[#0F90A3] to-[#442C5E] bg-clip-text text-transparent text-xl md:text-2xl lg:text-3xl xl:text-4xl font-semibold">
+                class="font-serif bg-gradient-to-r from-[#0F90A3] to-[#442C5E] bg-clip-text text-transparent text-xl md:text-2xl lg:text-3xl xl:text-4xl font-semibold">
                 For Quick Response, Please Call Us.
             </h3>
             <ul class="py-3 text-sm md:text-base xl:text-lg">
@@ -56,7 +56,7 @@
 
     <!-- Form Section -->
     <div class="bg-[#F9F9F9] p-5 rounded-lg shadow-lg w-full md:w-2/3 m-5 animate-slide-in-right">
-        <h2 class="font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mb-5 text-center">Contact Us
+        <h2 class="font-serif font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mb-5 text-center">Contact Us
         </h2>
 
         <form method="POST" enctype="multipart/form-data" action="#" class="px-5 max-w-5xl">

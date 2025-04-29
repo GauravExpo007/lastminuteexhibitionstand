@@ -6,11 +6,12 @@
                 class="bg-gradient-to-r from-[#0F90A3] to-white bg-clip-text text-transparent text-base md:text-lg uppercase mx-auto md:mx-0 tracking-wider font-semibold">
                 Our Services
             </h3>
-            <h2 class="font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-5xl mt-5 text-center md:text-left">
-                We provide the best design solutions.
+            <h2
+                class="font-serif font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mt-5 text-center md:text-left">
+                We provide the fastest exhibition stand design solutions.
             </h2>
             <p class="text-gray-400 mb-8 max-w-md">
-                We are Crafting excellence through precision fabrication solutions tailored to your needs.
+                We are crafting excellence through precision fabrication solutions tailored to your needs.
             </p>
 
             <!-- Tabs -->
@@ -49,8 +50,9 @@
                         class="bg-gradient-to-r from-[#0F90A3] to-white bg-clip-text text-transparent text-base md:text-lg uppercase tracking-wider font-semibold mb-2">
                         Custom Build Stand
                     </h3>
-                    <p class="text-gray-300 text-sm">Personalized exhibition booth designs that blend brand stories with
-                        customer conversations.</p>
+                    <p class="text-gray-300 text-sm">Last Minute Exhibition Stand is an expert in personalized
+                        exhibition booth design when exhibitors
+                        need stands ungently.</p>
                 </div>
             </div>
         </div>
@@ -65,7 +67,7 @@
 
     const services = [{
             title: "Custom Build Stand",
-            description: "Personalized exhibition booth designs that blend brand stories with customer conversations.",
+            description: "Last Minute Exhibition Stand is an expert in personalized exhibition booth design when exhibitors need stands ungently.",
             image: "./assets/service-section/custom.webp"
         },
         {

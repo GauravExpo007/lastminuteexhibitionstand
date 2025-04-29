@@ -5,7 +5,7 @@
             What Our Clients Say About Us
         </h3>
 
-        <h2 class="text-2xl md:text-3xl xl:text-4xl font-bold text-gray-900 mt-2">Over 1200+
+        <h2 class="font-serif text-2xl md:text-3xl xl:text-4xl font-bold text-gray-900 mt-2">Over 1200+
             <span class="text-[#0F90A3] animate-pulse">Satisfied</span> Clients and Growing
         </h2>
 

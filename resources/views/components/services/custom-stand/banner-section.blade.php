@@ -9,7 +9,7 @@
                      Exhibition
                      Stand</a>
              </span>
-             <h1 class="text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold md:w-[80%]">
+             <h1 class="font-serif text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold md:w-[80%]">
                  Maximizing Impact with Custom Exhibition Stand Design by Last Minute Exhibition Stand
              </h1>
 

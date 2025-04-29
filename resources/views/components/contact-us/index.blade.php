@@ -1,9 +1,5 @@
 <x-public-layout>
-    {{-- meta info start here --}}
-    <x-slot name="title">Xprooservice - Contact</x-slot>
-    <x-slot name="description">Xprooservice -Contact page</x-slot>
 
-    {{-- actual content start here --}}
     <!-- Banner Section -->
     <section>
         <div class="relative w-full bg-cover bg-center h-[400px] lg:min-h-screen"
@@ -14,7 +10,7 @@
             <!-- Content Container -->
             <div
                 class="relative flex flex-col justify-center items-center text-center text-white h-[400px] lg:min-h-screen p-4">
-                <h1 class="text-3xl md:text-5xl lg:text-7xl font-extrabold">
+                <h1 class="font-serif text-3xl md:text-5xl lg:text-7xl font-extrabold">
                     Contact Us
                 </h1>
 

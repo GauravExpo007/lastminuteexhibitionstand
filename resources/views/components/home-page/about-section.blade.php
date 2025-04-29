@@ -10,8 +10,11 @@
                         About Us
                     </h3>
 
-                    <h2 class="font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mt-10 text-center md:text-left">
-                        Your Reliable Choice for Booth Fabrication Services in UAE, EUROPE and ASIA.
+                    <h2
+                        class="font-serif font-semibold text-xl md:text-2xl lg:text-3xl xl:text-4xl mt-10 text-center md:text-left">
+                        Your Trustworthy Exhibition Stand Builder for Last
+                        Minute Exhibition Stand Services in UAE,
+                        EUROPE and ASIA.
                     </h2>
                 </div>
                 <div class="animate-slide-in-right w-full h-fit md:w-1/3 flex justify-center">
@@ -31,23 +34,37 @@
                         class="max-w-full h-auto hover:scale-95 duration-500 animate-slide-in-left bg-black/90 " />
                 </div>
                 <div class="w-full md:w-3/5 text-center md:text-left flex flex-col gap-5 animate-slide-in-right">
-                    <h3 class="text-xl md:text-2xl xl:text-3xl">
+                    <h3 class="font-serif text-xl md:text-2xl xl:text-3xl">
                         Big Ideas, creative people, new technology.
                     </h3>
                     <div class="flex flex-col gap-5 text-center md:text-left">
-                        <p class="text-sm md:text-base xl:text-lg">Welcome to Last Minute Exhibition Stand. your premier
+                        <p class="text-sm md:text-base">Last Minute Exhibition Stand specialises in providing
+                            high-impact exhibition stands when time is
+                            limited but expectations are high. Our team of experts has years of experience in the
                             exhibition
-                            booth design and construction partner, We are an exhibition stall designing company based in
-                            the energetic city of Dubai. We specialise in designing exhibition stalls across Europe, the
-                            United Kingdom, the United Arab Emirates, the Middle East, Asia and South Africa..</p>
+                            stand design and building field. We can quickly supply booths to any brands in need of
+                            last-minute
+                            exhibition stands with options that don&#39;t compromise on quality or design. We take care
+                            of every
+                            aspect, from prompt approvals and modular setups to 24-hour shipping throughout the USA,
+                            Europe, and the UAE. Regardless of whether your vendor cancelled or you received a late
+                            invitation,
+                            we will quickly, flawlessly, and properly brand your booth.</p>
 
-                        <p class="text-sm md:text-base xl:text-lg">Here at Last Minute Exhibition Stand, we are not only
-                            a company but
-                            employers of specialists eager to design conceptual and functional stands for your upcoming
-                            events. We have been serving the exhibition industry vertical for many years, and hence we
-                            have become one of the most reliable brands as an exhibition stand builder and constructor
-                            in the international market. Nonetheless, we are highly regarded for some of the most
-                            creative designs of stalls, high-quality workmanship, and dedication to work.
+                        <p class="text-sm md:text-base ">We have a reputation for turning constrained
+                            schedules into flawless production experiences. Even
+                            with short notice, our clients may show with confidence thanks to our in-house production
+                            capabilities, pre-engineered booth solutions, and same-day consultations. With complete
+                            support
+                            for design, logistics, and post-show services, our solutions range from modular rentals to
+                            custom
+                            pop-up builds. At international expos and trade shows, we have assisted thousands of
+                            exhibitors in
+                            overcoming last-minute obstacles. Last Minute Exhibition Stand is the go-to partner for
+                            pressing
+                            displaying needs because of its reputation for dependability and teams in strategic cities.
+                            We
+                            transform deadlines into chances that will turn heads.
                         </p>
                     </div>
                 </div>

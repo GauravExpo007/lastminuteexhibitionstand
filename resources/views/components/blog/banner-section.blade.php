@@ -7,8 +7,8 @@
              <span class="flex gap-2 text-lg md:text-xl"><a href="/" class="hover:text-[#71e1f0]">Home</a>.<a
                      href="{{ route('blog') }}" class="text-[#71e1f0] animate-pulse animate-left">Blogs</a>
              </span>
-             <h1 class="text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold">
-                 Discovering our brilliant insights.
+             <h1 class="font-serif text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold">
+                 Discovering our brilliant insights
              </h1>
 
          </div>
