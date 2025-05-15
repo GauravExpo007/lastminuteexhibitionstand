@@ -7,19 +7,24 @@
         <!-- Contact Section -->
         <section class="flex flex-col gap-6 text-center md:text-left">
             <h2 class="font-serif uppercase font-bold text-2xl sm:text-3xl">Contact</h2>
+
             <ul class="flex flex-col gap-4 text-slate-200 mx-auto md:mx-0">
+
                 <li class="flex items-start sm:items-center gap-3">
                     <i class="fa fa-map-marker text-[#0F90A3]"></i>
                     <span>Poreba 13b poreba 63-233, Poland</span>
                 </li>
+
                 <li class="flex items-center gap-3">
                     <i class="fa fa-envelope text-[#0F90A3]"></i>
                     <a href="mailto:enquiry@xprooservice.com" class="hover:text-[#0F90A3]">enquiry@lmst.com</a>
                 </li>
+
                 <li class="flex items-center gap-3">
                     <i class="fa fa-phone text-[#0F90A3]"></i>
                     <a href="tel:+971561566260" class="hover:text-[#0F90A3]">+971-561566260</a>
                 </li>
+
                 {{-- <li class="flex justify-center sm:justify-start gap-4 pt-6">
                     <a href="#"><i
                             class="fa-brands fa-facebook p-3 border-2 rounded-full border-orange-400 bg-[#0F90A3] hover:bg-white hover:text-orange-400 duration-300"></i></a>
@@ -32,6 +37,7 @@
                     <a href="#"><i
                             class="fa-brands fa-linkedin p-3 border-2 rounded-full border-orange-400 bg-[#0F90A3] hover:bg-white hover:text-orange-400 duration-300"></i></a>
                 </li> --}}
+
             </ul>
         </section>
 
@@ -53,9 +59,8 @@
             <ul class="flex flex-col gap-4 text-slate-200">
                 <li><a href="#" class="hover:text-[#0F90A3]">Consultation</a></li>
                 <li><a href="{{ route('custom-stand') }}" class="hover:text-[#0F90A3]">Custom Exhibition Stand</a></li>
-                <li><a href="#" class="hover:text-[#0F90A3]">Modular Exhibition Stand</a></li>
-                <li><a href="#" class="hover:text-[#0F90A3]">3D Booth Design</a></li>
-                <li><a href="#" class="hover:text-[#0F90A3]">Country Pavillion</a></li>
+                <li><a href="{{ route('modular-stand') }}" class="hover:text-[#0F90A3]">Modular Exhibition Stand</a>
+                </li>
             </ul>
         </section>
 
@@ -81,6 +86,7 @@
             </span>
         </div>
     </div>
+
 </footer>
 
 <script>

@@ -18,7 +18,7 @@
                 </div>
                 <div class="animate-slide-in-right w-full h-fit md:w-1/3 flex justify-center">
                     <a href="#"
-                        class="flex group items-center gap-2 text-base md:text-lg lg:text-xl font-semibold hover:font-bold w-fit hover:scale-105 duration-500">
+                        class="flex group items-center gap-2 text-base md:text-lg lg:text-xl font-semibold hover:font-bold w-fit duration-500">
                         <span class="underline underline-offset-8 text-[#0F90A3] hover:text-[#442C5E]">View Our Services
                         </span><i class="fa fa-arrow-right text-[#0F90A3] group-hover:text-[#442C5E] "
                             aria-hidden="true"></i>

@@ -27,3 +27,7 @@ Route::get('/contact', function () {
 Route::get('/service/custom-stand', function () {
     return view('components.services.custom-stand.index');
 })->name('custom-stand');
+
+Route::get('/service/modular-stand', function () {
+    return view('components.services.modular-stand.index');
+})->name('modular-stand');

@@ -49,7 +49,6 @@
                 </div>
                 <div class="w-full md:w-3/5 text-center md:text-left flex flex-col gap-5 animate-slide-in-right">
 
-
                     <h3 class="text-xl md:text-2xl xl:text-3xl">
                         Our Mission
                     </h3>

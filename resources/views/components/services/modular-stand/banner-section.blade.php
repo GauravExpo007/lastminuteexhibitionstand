@@ -5,12 +5,13 @@
 
          <div class="my-10 md:my-14 flex flex-col gap-5 justify-center items-center text-center opacity-100">
              <span class="flex gap-2 text-lg md:text-xl"><a href="/" class="hover:text-[#71e1f0]">Home</a>.<a
-                     href="{{ route('custom-stand') }}" class="text-[#71e1f0] animate-pulse animate-left">Custom
+                     href="{{ route('custom-stand') }}" class="text-[#71e1f0] animate-pulse animate-left">Modular
                      Exhibition
                      Stand</a>
              </span>
-             <h1 class="font-serif text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold md:w-[90%]">
-                 Looking for last-minute exhibition stands? We are here with urgent custom exhibition stands near you
+             <h1 class="font-serif text-2xl md:text-3xl lg:text-5xl text-white animate-right font-semibold md:w-[80%]">
+                 Instant Impact with Last Minute
+                 Modular Exhibition Stands
              </h1>
 
          </div>

@@ -34,17 +34,9 @@
                         </a>
                     </li>
 
-                    <!-- Country Pavilion Stands -->
-                    <li class="relative group">
-                        <a href="#"
-                            class="flex justify-between items-center px-4 py-2 text-sm md:text-base hover:bg-[#81C5CF]">
-                            Country Pavilion Stands
-                        </a>
-                    </li>
-
                     <!--  Modular Stands -->
                     <li class="relative group">
-                        <a href="#"
+                        <a href="{{ route('modular-stand') }}"
                             class="flex justify-between items-center px-4 py-2 text-sm md:text-base hover:bg-[#81C5CF]">
                             Modular Stands
                         </a>
@@ -91,17 +83,9 @@
                         </a>
                     </li>
 
-                    <!-- Country Pavilion Stands -->
-                    <li>
-                        <a href="#"
-                            class="w-full flex justify-between items-center px-4 py-2 hover:bg-gray-700 submenu-toggle">
-                            Country Pavilion Stands
-                        </a>
-                    </li>
-
                     <!-- Modular Stands -->
                     <li>
-                        <a href="#"
+                        <a href="{{ route('modular-stand') }}"
                             class="w-full flex justify-between items-center px-4 py-2 hover:bg-gray-700 submenu-toggle">
                             Modular Stands
                         </a>

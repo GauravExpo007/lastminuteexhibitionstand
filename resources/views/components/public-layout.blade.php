@@ -6,16 +6,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>{{ $title ?? 'Planmybooth' }}</title>
+    <meta name="description" content="{{ $meta_description ?? 'Planmybooth-blog' }}">
+
     {{-- <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700&display=swap" rel="stylesheet"> --}}
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="preload" href="/fonts/larken-serif/LarkenSerif-Regular.woff2" as="font" type="font/woff2"
         crossorigin="anonymous">
-
-
     @vite('resources/css/app.css')
+
     {{-- <link href="{{ asset('assets/css/header.css') }}" rel="stylesheet"> --}}
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
 
     <!-- Slick Carousel CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" />
@@ -30,8 +31,6 @@
     {{-- Portfolio-gallery --}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css">
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
-
-
 
 </head>
 
@@ -75,12 +74,15 @@
 </style>
 
 <body>
+
     <header>
         <x-home-page.header-section />
     </header>
+
     <main>
         {{ $slot }}
     </main>
+
     <footer>
         <x-footer.index />
     </footer>
@@ -130,7 +132,7 @@
 
             function resizeVanta() {
                 vantaBg.style.width = "100%";
-                vantaBg.style.height = "100vh";
+                vantaBg.style.height = "110vh";
                 if (vantaEffect) {
                     vantaEffect.resize();
                 }
@@ -140,7 +142,6 @@
             window.addEventListener("resize", resizeVanta);
         });
     </script>
-
 
     <!-- Typed.js Script -->
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -163,7 +164,6 @@
             });
         });
     </script>
-
 
 </body>
 

@@ -1,4 +1,4 @@
-<section class="px-8 py-16 max-w-7xl mx-auto relative bg-center bg-no-repeat bg-fixed"
+<section class="px-8 py-16 mx-auto relative bg-center bg-no-repeat bg-fixed"
     style="background-image: url('/assets/bg/home-bg.webp')">
     <div class="mb-12">
         <h2

@@ -8,6 +8,7 @@
                 For Quick Response, Please Call Us.
             </h3>
             <ul class="py-3 text-sm md:text-base xl:text-lg">
+
                 <li class="mb-2">
                     <a href="tel:+19377838830" class="text-black hover:text-[#0E91A3] flex gap-3 items-center">
                         <span><i class="fas fa-phone-alt"></i></span> +1 9377838830
@@ -25,7 +26,9 @@
                         <span><i class="fas fa-desktop"></i></span> www.lmst.com
                     </a>
                 </li>
+
             </ul>
+
             <div class="social-menu rounded-2xl w-[90%]">
                 <ul class="flex gap-4">
                     <li class="border border-slate-700 rounded-full p-1">
@@ -45,13 +48,12 @@
                     </li>
                     <li class="border border-slate-700 rounded-full p-1">
                         <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-twitter px-1 hover:text-slate-800"></i>
+                            <i class="fa-brands fa-x-twitter px-1 hover:text-slate-800"></i>
                         </a>
                     </li>
                 </ul>
             </div>
         </div>
-
     </div>
 
     <!-- Form Section -->
@@ -102,7 +104,6 @@
                         <p class="text-red-500 text-sm mt-1">{{ $message }}</p>
                     @enderror
                 </div>
-
             </div>
 
             <!-- Second Row (Email & City) -->
@@ -204,7 +205,6 @@
 
             <!-- Third Row (Company Name & Exhibition Name) -->
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-2">
-
                 <div class="hover:scale-105 duration-700">
                     <label for="exhibitionName" class="block text-sm font-medium text-gray-700">Exhibition
                         Name

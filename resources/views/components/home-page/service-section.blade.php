@@ -72,17 +72,17 @@
         },
         {
             title: "Country Pavilion Stand",
-            description: "Last Minute Exhibition Stands has significant experience producing engaging country pavilions and visually striking technological advancements and designs.",
+            description: "Last Minute Exhibition Stand offers best and engaging country pavilion stands. These are visually striking booth with technological advancements and designs.",
             image: "./assets/service-section/country.webp"
         },
         {
             title: "Double Decker Exhibits",
-            description: "Double decker stands that elevate your presence and provide additional space with an impressive visual impact.",
+            description: "Last Minute Exhibition Stand is the best exhibition stand builder for Double Decker Exhibits within a limited time-frame.",
             image: "./assets/service-section/double decker.webp"
         },
         {
             title: "Modular Stand",
-            description: "Flexible, reusable and sustainable exhibition stands that adapt to your needs and budget.",
+            description: "We also offer flexible and reusable modular exhibition stands. Last Minute Exhibition Stand offer modular stands that adapt to your needs and budget.",
             image: "./assets/service-section/modular.webp"
         }
     ];
